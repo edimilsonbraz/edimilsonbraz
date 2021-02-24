@@ -1,21 +1,19 @@
-<!--
-**edimilsonbraz/edimilsonbraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="auto" src="https://ik.imagekit.io/1n1swj1w28/1400x900_0VcDpVoM8.png">
 
-Here are some ideas to get you started:
+# Edimilson BrazZ 🖖 
 
-  - 🔭 I’m currently working on ...
-  - 🌱 I’m currently learning ...
-  - 👯 I’m looking to collaborate on ...
-  - 🤔 I’m looking for help with ...
-  - 💬 Ask me about ...
-  - 📫 How to reach me: ...
-  - 😄 Pronouns: ...
-  - ⚡ Fun fact: ...
--->
-# My name is Edimilson Braz 🖖 
+## Olá Devs👋
 
-  - 😄 I'm a systems analyst passionate about technology
-  - 🚀 I am currently studying the best of web development
-  - 🎸 In my free time I'm a musician
-  - 👌  I also like to fish
-  - 💻 I try to be 1% better every day
+Sou um analista de sistemas apaixonado por tecnologia
+Atualmente Front-end Developer :computer:
+
+:rocket:  &nbsp; Atualmente estou estudando algumas tecnologias front.
+
+  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React.
+  <br/> :blush: &nbsp; Posso te ajudar com JavaScript, CSS Grid Layout e Flexbox.
+  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, JavaScript.
+  <br/> 💬  &nbsp; Sobre mim: No meu tempo livre sou musico🎸, Curto tecnologias :computer:, e gosto de pescar :fish: 
+
+   <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-EdimilsonBraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edimilsonbraz/)](https://www.linkedin.com/in/edimilsonbraz/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-edimilson.gt8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edimilson.gt8@gmail.com)](mailto:edimilson.gt8@gmail.com)
