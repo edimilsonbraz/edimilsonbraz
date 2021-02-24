@@ -4,10 +4,10 @@
 
 ## Olá Devs👋
 
-Sou um analista de sistemas apaixonado por tecnologia
+Sou um analista de sistemas apaixonado por tecnologia! <br/> 
 Atualmente Front-end Developer :computer:
 
-:rocket:  &nbsp; Atualmente estou estudando algumas tecnologias front.
+:rocket:  &nbsp; Estou estudando algumas tecnologias front.
 
   <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React.
   <br/> :blush: &nbsp; Posso te ajudar com JavaScript, CSS Grid Layout e Flexbox.
