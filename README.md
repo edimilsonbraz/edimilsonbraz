@@ -13,7 +13,7 @@ Atualmente Front-end Developer :computer:
   <br/> :blush: &nbsp; Posso te ajudar com JavaScript, CSS Grid Layout e Flexbox.
   <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, JavaScript.
   <br/> 💬  &nbsp; Sobre mim: No meu tempo livre sou musico🎸, Curto tecnologias :computer:, e gosto de pescar :fish: 
-  <br/> :battery: "1% melhor todos os dias!!!"
+  <br/> :battery: &nbsp; "1% melhor todos os dias!!!"
   <br/>
   <br/> :email: &nbsp; Entre em contato comigo: 
   [![Linkedin Badge](https://img.shields.io/badge/-EdimilsonBraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edimilsonbraz/)](https://www.linkedin.com/in/edimilsonbraz/) 
