@@ -10,7 +10,7 @@ Atualmente Front-end Developer :computer:
 :octocat:  &nbsp; Estou estudando algumas tecnologias front.
 
   <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React.
-  <br/> :blush: &nbsp; Posso te ajudar com JavaScript, CSS Grid Layout e Flexbox.
+  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox.
   <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, JavaScript.
   <br/> 💬  &nbsp; Sobre mim: No meu tempo livre sou musico🎸, Curto tecnologias :computer:, e gosto de pescar :fish: 
   <br/> :battery: &nbsp; "1% melhor todos os dias!!!"
