@@ -1,21 +1,36 @@
-<img width="auto" src="https://ik.imagekit.io/1n1swj1w28/1400x900_0VcDpVoM8.png">
+# Olá Devs👋
 
-# Edimilson BrazZ 🖖 
+## Edimilson BrazZ 🖖 
 
-## Olá Devs👋
+### Um pouco sobre mim:
+* :fleur_de_lis: 🇧🇷 - Distrito Federal
+* :computer: Analista de sistemas apaixonado por tecnologia!
+* 🚀 Atualmente estudando sobre desenvolvimento Web
+* :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando JavaScript.
+* 🎸 No meu tempo livre sou musico, Curto tecnologias, e gosto de pescar.
+* :battery: &nbsp; "1% melhor todos os dias!!!"
 
-Sou um analista de sistemas apaixonado por tecnologia! <br/> 
-Atualmente Front-end Developer :computer:
+### :zap: Skills:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
-:octocat:  &nbsp; Estou estudando algumas tecnologias front.
+### :zap: Status:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdimilsonBraz&show_icons=true&theme=chartreuse-dark)
 
-  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React.
-  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox.
-  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, JavaScript.
-  <br/> 💬  &nbsp; Sobre mim: No meu tempo livre sou musico🎸, Curto tecnologias :computer:, e gosto de pescar :fish: 
-  <br/> :battery: &nbsp; "1% melhor todos os dias!!!"
-  <br/>
-  <br/> :email: &nbsp; Entre em contato comigo: 
-  [![Linkedin Badge](https://img.shields.io/badge/-EdimilsonBraz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edimilsonbraz/)](https://www.linkedin.com/in/edimilsonbraz/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-edimilson.gt8@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edimilson.gt8@gmail.com)](mailto:edimilson.gt8@gmail.com)
+### :zap: Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edimilsonbraz&layout=compact)](https://github.com/edimilsonbraz/github-readme-stats)
+
+
+### :mailbox_with_no_mail: Entre em contato comigo: 
+<a href="https://www.linkedin.com/in/edimilsonbraz/" target="_black">
+ <img align="center" alt="Edimilson Braz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+  style="max-width:100%;">
+</a>
+<a href="https://edimilson.gt@gmail.com" target="_black">
+ <img align="center" alt="Edimilson Braz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+ style="max-width:100%;">
+</a>
+  
