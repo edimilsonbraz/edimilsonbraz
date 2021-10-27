@@ -1,6 +1,10 @@
-# Olá Devs👋
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/edimilsonbraz/d0bb33ff4a19467b20f1734ec46422a8/raw/8368903a987e66ffb5c5a513492658ac8f2dc6dd/githubcard.svg"/>
+
+# Olá Devs <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 ## Edimilson BrazZ 🖖 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edimilsonbraz&color=yellow" alt="Profile views" /> </p>
 
 ### Um pouco sobre mim:
 * :fleur_de_lis: 🇧🇷 - Distrito Federal
@@ -16,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
 ### :zap: Status:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdimilsonBraz&show_icons=true&theme=chartreuse-dark)
@@ -24,13 +29,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edimilsonbraz&layout=compact)](https://github.com/edimilsonbraz/github-readme-stats)
 
 
-### :mailbox_with_no_mail: Entre em contato comigo: 
-<a href="https://www.linkedin.com/in/edimilsonbraz/" target="_black">
- <img align="center" alt="Edimilson Braz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-  style="max-width:100%;">
+### :mailbox_with_no_mail: Social Links: 
+<a href="https://edimilson.gt8@gmail.com" target="_blank">
+ <img align="center" src="hhttps://img.shields.io/badge/-edimilsonbraz-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
-<a href="https://edimilson.gt@gmail.com" target="_black">
- <img align="center" alt="Edimilson Braz" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
- style="max-width:100%;">
+<a href="https://linkedin.com/in/edimilsonbraz" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-edimilsonbraz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+<a href="https://instagram.com/eddiguitar" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-edimilsonbraz-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
+
+
   
