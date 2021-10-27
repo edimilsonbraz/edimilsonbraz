@@ -14,7 +14,7 @@
 * 🎸 No meu tempo livre sou musico, Curto tecnologias, e gosto de pescar.
 * :battery: &nbsp; "1% melhor todos os dias!!!"
 
-<br><br>
+<br>
 
 ### :zap: Skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
@@ -24,17 +24,17 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width:100%;"></img>
 
-<br><br>
+<br>
 
 ### :zap: Status:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdimilsonBraz&show_icons=true&theme=chartreuse-dark)
 
-<br><br>
+<br>
 
 ### :zap: Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edimilsonbraz&layout=compact)](https://github.com/edimilsonbraz/github-readme-stats)
 
-<br><br>
+<br>
 
 ### :mailbox_with_no_mail: Social Links: 
 <a href="https://linkedin.com/in/edimilsonbraz" target="_blank">
