@@ -43,20 +43,16 @@
 [![GitHub Followers](https://img.shields.io/github/followers/edimilsonbraz?style=for-the-badge&logo=Github&Color=white)](https://github.com/edimilsonbraz)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edimilsonbraz)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eddiguitar)
-
-<br>
-
-### :zap: Connect with me:
-<p>
-<a href="mailto:edimilson.gt8@gmail.com" target="_blank">
-	<img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://discord.com/app" target="_blank">
   <img src="https://img.shields.io/badge/edimilsonbraz%8808-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-</p>
+<a href="mailto:edimilson.gt8@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <br>
+
+
 
 ![Snake animation](https://github.com/edimilsonbraz/edimilsonbraz/blob/output/github-contribution-grid-snake.svg)
 
