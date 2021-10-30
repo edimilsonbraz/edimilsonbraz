@@ -1,8 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/edimilsonbraz/d0bb33ff4a19467b20f1734ec46422a8/raw/e6399b91099e0840f133668c485381bf9e2e144d/githubcard.svg"/>
 
-# Olá Devs <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Olá Devs, sou Edimilson Braz <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-## Edimilson BrazZ 🖖 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edimilsonbraz&color=yellow" alt="Profile views" /> </p>
 
@@ -28,14 +27,9 @@
 
 ### :zap: Status:
 <div align="">
-<img height="220em" src="https://github-readme-stats.vercel.app/api?username=EdimilsonBraz&show_icons=true&theme=chartreuse-dark"/>
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edimilsonbraz&layout=compact)](https://github.com/edimilsonbraz/github-readme-stats"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=EdimilsonBraz&show_icons=true&theme=chartreuse-dark"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edimilsonbraz&layout=compact&theme=chartreuse-dark"/>
 </div>
-
-<br>
-
-### :zap: Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edimilsonbraz&layout=compact)](https://github.com/edimilsonbraz/github-readme-stats)
 
 <br>
 
