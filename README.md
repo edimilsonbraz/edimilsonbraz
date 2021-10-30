@@ -27,8 +27,8 @@
 
 ### :zap: Status:
 <div align="">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdimilsonBraz&show_icons=true&theme=chartreuse-dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edimilsonbraz&layout=compact&theme=chartreuse-dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=EdimilsonBraz&show_icons=true&theme=chartreuse-dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edimilsonbraz&layout=compact&theme=chartreuse-dark"/>
 </div>
 
 <br>
