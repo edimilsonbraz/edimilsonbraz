@@ -27,7 +27,10 @@
 <br>
 
 ### :zap: Status:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdimilsonBraz&show_icons=true&theme=chartreuse-dark)
+<div align="">
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=EdimilsonBraz&show_icons=true&theme=chartreuse-dark"/>
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edimilsonbraz&layout=compact)](https://github.com/edimilsonbraz/github-readme-stats"/>
+</div>
 
 <br>
 
