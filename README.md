@@ -37,12 +37,10 @@
 <br>
 
 ### :mailbox_with_no_mail: Social Links: 
-<a href="https://linkedin.com/in/edimilsonbraz" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-edimilsonbraz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/eddiguitar" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-edimilsonbraz-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+[![GitHub Followers](https://img.shields.io/github/followers/edimilsonbraz?style=for-the-badge&logo=Github&Color=white)](https://github.com/edimilsonbraz)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edimilsonbraz)
+[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eddiguitar)
+
 
 
 
