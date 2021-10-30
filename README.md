@@ -56,6 +56,9 @@
 </a>
 </p>
 
+<br>
+
+![Snake animation](https://github.com/edimilsonbraz/edimilsonbraz/blob/output/github-contribution-grid-snake.svg)
 
 
   
