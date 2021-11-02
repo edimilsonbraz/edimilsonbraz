@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edimilsonbraz&color=yellow" alt="Profile views" /> </p>
 
-### Um pouco sobre mim:
+### :zap: Um pouco sobre mim:
 * :fleur_de_lis: 🇧🇷 - Distrito Federal
 * :computer: Analista de sistemas apaixonado por tecnologia!
 * 🚀 Atualmente estudando sobre desenvolvimento Web
@@ -34,7 +34,7 @@
 
 <br>
 
-### :mailbox_with_no_mail: Social Links: 
+### :zap: Social Links: 
 [![GitHub Followers](https://img.shields.io/github/followers/edimilsonbraz?style=for-the-badge&logo=Github&Color=white)](https://github.com/edimilsonbraz)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edimilsonbraz)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eddiguitar)
