@@ -13,14 +13,17 @@
 
 <br>
 
-### :zap: Skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="rails" width="80" height="80" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="rails" width="80" height="80" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="rails" width="80" height="80" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="rails" width="80" height="80" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="80" height="80" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="rails" width="80" height="80" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="rails" width="80" height="80" style="max-width:100%;"></img>
+### :zap: LINGUAGENS E TECNOLOGIAS:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45">
+  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/SQL.png?raw=true" alt="SQL" width="55" height="55">
+  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/powerbi.png?raw=true" alt="powerbi" width="40" height="40">
+  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/react.png?raw=true" alt="react" width="40" height="40">
+  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/nodejs.png?raw=true" alt="node" width="50" height="50">
+  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/html-5.png?raw=true" alt="html" width="40" height="40">
+  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/css-3.png?raw=true" alt="css3" width="40" height="40">
+  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/git.png?raw=true" alt="git" width="40" height="40">
+</div>
 
 <br>
 
