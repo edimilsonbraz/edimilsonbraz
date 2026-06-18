@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edimilsonbraz&color=yellow" alt="Profile views" /> </p>
 
-### :zap: Um pouco sobre mim:
+## :zap: Um pouco sobre mim:
 * :fleur_de_lis: 🇧🇷 - Distrito Federal
 * :computer: Analista de sistemas apaixonado por tecnologia!
 * 🚀 Atualmente estudando sobre desenvolvimento Web
@@ -13,7 +13,7 @@
 
 <br>
 
-### :zap: LINGUAGENS E TECNOLOGIAS:
+## :zap: LINGUAGENS E TECNOLOGIAS:
 <div>
   <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/python-logo?raw=true" alt="python" width="45" height="45">
   <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/SQL.png?raw=true" alt="SQL" width="55" height="55">
@@ -27,6 +27,19 @@
   <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/git.png?raw=true" alt="git" width="40" height="40">
 </div>
 
+<br>
+
+## :zap: PRINCIPAIS PROJETOS 
+### Projeto: Análise de Vendas – Loja Física vs Online
+<img align="right" width="500"  src="https://github.com/edimilsonbraz/portfolio-analista-dados/blob/master/projetos/analise-vendas-loja-vs-online/imagens/01_dashboard_visao_geral.png?raw=true">
+
+Análise exploratória de dados focada na comparação do desempenho comercial entre loja física e e-commerce. O projeto utiliza SQL, PowerBi e dashboard interativo esplorando as tendências, padrões de consumo e oportunidades de crescimento em cada canal de vendas.
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNDdjZGZjMjctNDNkNS00NWYwLThhOGEtZDQ3ZGY1MmM1MzFjIiwidCI6ImIyYjI2MzY2LWRhNmEtNGNkOS1hMzI4LTNmNWI3NzljZGI4MiJ9&pageName=d7bbc0981f7c5fe3cce6" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<br>
+<a href="https://github.com/edimilsonbraz/portfolio-analista-dados/blob/master/projetos/analise-vendas-loja-vs-online/README.md" target="_blank">Clique aqui</a> e acesse o repositório.
+<br>
+<br>
 <br>
 
 ### :zap: Status:
