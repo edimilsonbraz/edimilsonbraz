@@ -34,21 +34,41 @@
 <img align="right" width="500"  src="https://github.com/edimilsonbraz/portfolio-analista-dados/blob/master/projetos/analise-vendas-loja-vs-online/imagens/01_dashboard_visao_geral.png?raw=true">
 
 Análise exploratória de dados focada na comparação do desempenho comercial entre loja física e e-commerce. O projeto utiliza SQL, PowerBi e dashboard interativo esplorando as tendências, padrões de consumo e oportunidades de crescimento em cada canal de vendas.
+
+### O objetivo é apoiar a tomada de decisão estratégica, respondendo perguntas de negócio como:
+👉🏽 O canal online está ganhando ou perdendo relevância?
+
+👉🏽 Quais categorias performam melhor no online vs loja física?
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNDdjZGZjMjctNDNkNS00NWYwLThhOGEtZDQ3ZGY1MmM1MzFjIiwidCI6ImIyYjI2MzY2LWRhNmEtNGNkOS1hMzI4LTNmNWI3NzljZGI4MiJ9&pageName=d7bbc0981f7c5fe3cce6" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNDdjZGZjMjctNDNkNS00NWYwLThhOGEtZDQ3ZGY1MmM1MzFjIiwidCI6ImIyYjI2MzY2LWRhNmEtNGNkOS1hMzI4LTNmNWI3NzljZGI4MiJ9&pageName=d7bbc0981f7c5fe3cce6" target="_blank">Clique aqui</a> e acesse o dashboard em powerbi.
 <br>
 <a href="https://github.com/edimilsonbraz/portfolio-analista-dados/blob/master/projetos/analise-vendas-loja-vs-online/README.md" target="_blank">Clique aqui</a> e acesse o repositório.
+
+<br><br>
+
+### 🛒 Marketplace Review Intelligence
+<img align="right" width="500"  src="https://github.com/edimilsonbraz/portfolio-analista-dados/blob/master/projetos/marketplace-review-intelligence/assets/01_capa_dashboard.png?raw=true">
+
+Projeto de Data Analytics e Business Intelligence usando Python e PowerBi que transforma mais de 200 mil avaliações de consumidores do Mercado Livre em insights estratégicos de negócio. O trabalho abrange todo o ciclo de dados — coleta, limpeza, análise de sentimento, modelagem dimensional e visualização executiva em Power BI — permitindo identificar padrões de satisfação, tendências de mercado, oportunidades de crescimento e riscos de qualidade em produtos de beleza e cuidados capilares.
 <br>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjYxMjE2ODgtMjdlYi00MWMwLWEwNzItNDYwZmJlMjdiZTY1IiwidCI6ImIyYjI2MzY2LWRhNmEtNGNkOS1hMzI4LTNmNWI3NzljZGI4MiJ9" target="_blank">Clique aqui</a> e acesse o dashboard em powerbi.
 <br>
-<br>
+<a href="https://github.com/edimilsonbraz/portfolio-analista-dados/tree/master/projetos/marketplace-review-intelligence#readme" target="_blank">Clique aqui</a> e acesse o repositório.
+
+<br><br>
+
 
 ### :zap: Status:
 <div align="">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EdimilsonBraz&show_icons=true&theme=chartreuse-dark"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edimilsonbraz&layout=compact&theme=chartreuse-dark"/>
+
 </div>
 
-<br>
+
+
+<br><br>
 
 ### :zap: Social Links: 
 [![GitHub Followers](https://img.shields.io/github/followers/edimilsonbraz?style=for-the-badge&logo=Github&Color=white)](https://github.com/edimilsonbraz)
