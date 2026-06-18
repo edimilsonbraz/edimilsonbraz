@@ -1,4 +1,4 @@
-# Olá Devs, sou Edimilson Braz <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+# Olá, Edimilson Braz por aqui!!! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edimilsonbraz&color=yellow" alt="Profile views" /> </p>
@@ -15,15 +15,15 @@
 
 ## :zap: LINGUAGENS E TECNOLOGIAS:
 <div>
-  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/python-logo?raw=true" alt="python" width="45" height="45">
+  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/python-logo.png?raw=true" alt="python" width="45" height="45">
   <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/SQL.png?raw=true" alt="SQL" width="55" height="55">
   <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/powerbi.png?raw=true" alt="powerbi" width="40" height="40">
   <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/react.png?raw=true" alt="react" width="40" height="40">
-  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/nodejs.png?raw=true" alt="node" width="50" height="50">
-  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/vscode.png?raw=true" alt="vscode" width="40" height="40">
+  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/nodejs.png?raw=true" alt="node" width="60" height="60">
+  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/vsccode.png?raw=true" alt="vscode" width="40" height="40">
   <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/html-5.png?raw=true" alt="html" width="40" height="40">
   <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/css-3.png?raw=true" alt="css3" width="40" height="40">
-  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/tailwind.png" alt="tailwind" width="40" height="40">
+  <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/tailwind.png?raw=true" alt="tailwind" width="50" height="50">
   <img src="https://github.com/edimilsonbraz/edimilsonbraz/blob/master/icones/git.png?raw=true" alt="git" width="40" height="40">
 </div>
 
@@ -34,8 +34,7 @@
 <img align="right" width="500"  src="https://github.com/edimilsonbraz/portfolio-analista-dados/blob/master/projetos/analise-vendas-loja-vs-online/imagens/01_dashboard_visao_geral.png?raw=true">
 
 Análise exploratória de dados focada na comparação do desempenho comercial entre loja física e e-commerce. O projeto utiliza SQL, PowerBi e dashboard interativo esplorando as tendências, padrões de consumo e oportunidades de crescimento em cada canal de vendas.
-
-### O objetivo é apoiar a tomada de decisão estratégica, respondendo perguntas de negócio como:
+#### O objetivo é apoiar a tomada de decisão estratégica, respondendo perguntas de negócio como:
 👉🏽 O canal online está ganhando ou perdendo relevância?
 
 👉🏽 Quais categorias performam melhor no online vs loja física?
@@ -47,7 +46,7 @@ Análise exploratória de dados focada na comparação do desempenho comercial e
 <br><br>
 
 ### 🛒 Marketplace Review Intelligence
-<img align="right" width="500"  src="https://github.com/edimilsonbraz/portfolio-analista-dados/blob/master/projetos/marketplace-review-intelligence/assets/01_capa_dashboard.png?raw=true">
+<img align="left" width="500"  src="https://github.com/edimilsonbraz/portfolio-analista-dados/blob/master/projetos/marketplace-review-intelligence/assets/01_capa_dashboard.png?raw=true">
 
 Projeto de Data Analytics e Business Intelligence usando Python e PowerBi que transforma mais de 200 mil avaliações de consumidores do Mercado Livre em insights estratégicos de negócio. O trabalho abrange todo o ciclo de dados — coleta, limpeza, análise de sentimento, modelagem dimensional e visualização executiva em Power BI — permitindo identificar padrões de satisfação, tendências de mercado, oportunidades de crescimento e riscos de qualidade em produtos de beleza e cuidados capilares.
 <br>
